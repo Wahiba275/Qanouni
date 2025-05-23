@@ -98,6 +98,9 @@ streamlit run chatbot_darija.py
 | `Chno l9anoun dyal lwiratha ?` | `F lmaghrib, lwiratha katsir 3la 7asab l9orba...` |
 | `Chno houwa l9anoun lmaghribi ?` | `L9anoun lmaghribi howa majmou3a dyal lwa9anin...` |
 
----
 
+
+---
+![](bot.png)
+![](bot3.png)
 
