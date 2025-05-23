@@ -101,6 +101,6 @@ streamlit run chatbot_darija.py
 
 
 ---
-![](bot.png)
-![](bot3.png)
+![](testBot1.PNG)
+![](testBot2.PNG)
 
