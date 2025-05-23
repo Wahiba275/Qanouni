@@ -11,9 +11,12 @@ from langchain.prompts import (
 from langchain.memory import ConversationBufferMemory
 from pydantic import BaseModel, Field
 import re
+import os
+from dotenv import load_dotenv
 
 #clé OpenAI
-api_key = "sk-proj-_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+load_dotenv()
+api_key = os.getenv("OPENAI_API_KEY")
 
 # Modèle LLM GPT-4
 llm = ChatOpenAI(
