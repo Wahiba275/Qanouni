@@ -15,7 +15,6 @@ Un chatbot intelligent conçu pour répondre aux questions juridiques en dialect
 - [Personnalisation](#personnalisation)
 - [Perspectives futures](#perspectives-futures)
 - [Aperçu du Chatbot](#aperçu-du-chatbot)
-- [Crédits](#crédits)
 
 ---
 
@@ -29,7 +28,7 @@ Ce projet vise à démocratiser l’accès à l’information juridique pour les
 
 Voici une vue d'ensemble de l'architecture du chatbot :
 
-![Architecture du projet](images/architecture.png)
+![Architecture du projet](architecture.png)
 
 ---
 
