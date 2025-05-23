@@ -28,7 +28,7 @@ Ce projet vise à démocratiser l’accès à l’information juridique pour les
 
 Voici une vue d'ensemble de l'architecture du chatbot :
 
-![Architecture du projet](architecture.png)
+![](architecture.png)
 
 ---
 
