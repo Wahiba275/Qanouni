@@ -1,0 +1,10 @@
+openai
+langchain
+pydantic
+python-dotenv
+streamlit
+tqdm
+requests
+jinja2
+pandas
+transformers
